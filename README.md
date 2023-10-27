@@ -1,7 +1,7 @@
 # Population change inside California's wildland-urban interface (WUI) (2010-2019)
 
-Shenyue Jia | [jiashenyue.info](jiashenyue.info)
-Slade Laszewski | [LinkedIn](https://www.linkedin.com/in/slade-laszewski-8893b91a9)
+- Shenyue Jia | [jiashenyue.info](jiashenyue.info)
+- Slade Laszewski | [LinkedIn](https://www.linkedin.com/in/slade-laszewski-8893b91a9)
 
 ## Data
 ### Population data
