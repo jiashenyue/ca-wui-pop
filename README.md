@@ -15,8 +15,8 @@
 
 ## Result
 - Yearly population for census tracts inside California WUI
-  - [Check this folder]
+  - [Check this folder](https://github.com/jiashenyue/ca-wui-pop/tree/main/pop_wui_tracts)
 - Result metrics at census tract level
-  - % county population living inside WUI
-  - Housing affordability index
-- An interactive visualization of the housing affordability index and percentage county population living inside WUI
+  - Trend calculated for data from 2010 to 2021 (Mann-Kendall, OLS, Poisson Regression) [link](https://github.com/jiashenyue/ca-wui-pop/blob/main/trend_calculation/pop_trend_2010_2019_WUI_tracts_type.csv)
+  - Trend calculated for data from 2010 to 2021 (Mann-Kendall, OLS, Poisson Regression) [link](https://github.com/jiashenyue/ca-wui-pop/blob/main/trend_calculation/pop_trend_2010_2021_WUI_tracts_type.csv)
+- An [interactive visualization](https://miamioh.maps.arcgis.com/apps/instant/exhibit/index.html?appid=2849c63b50184b14ae53f5b74142a537) of the housing affordability index and percentage county population living inside WUI
